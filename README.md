@@ -6,6 +6,10 @@
 🔹 Experienced with Kubernetes, Docker, Terraform, Ansible, OpenStack, and CI/CD pipelines.  
 🔍 Always learning and exploring new DevOps tools & best practices.  
 
+### 📑 **View My Resume**:
+
+[Click here to view my CV](https://dehech.github.io/Firas-CV/)
+
 ### 🛠️ **DevOps Tools I Use:**  
 
 #### Orchestration & Containerization
