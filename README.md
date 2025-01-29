@@ -7,11 +7,8 @@
 🔍 Always learning and exploring new DevOps tools & best practices.  
 
 ### 🛠️ **DevOps Tools I Use:**  
-#### Orchestration & Containerization
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)  
-![Helm](https://img.shields.io/badge/Helm-0F1D35?logo=helm&logoColor=white)  
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)  
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)![Helm](https://img.shields.io/badge/Helm-0F1D35?logo=helm&logoColor=white)![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)  
 
 #### CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
