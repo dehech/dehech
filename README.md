@@ -20,6 +20,9 @@
 - ![Trivy](https://img.shields.io/badge/Trivy-3E7CC6?logo=trivy&logoColor=white)  
 - ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 - ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
+- ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)  
+- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 
   
 📌 **Pinned Projects:**  
