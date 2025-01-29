@@ -18,9 +18,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white)  
 
 #### Monitoring & Security
-![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?logo=prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)  
-![Trivy](https://img.shields.io/badge/Trivy-3E7CC6?logo=trivy&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-3E7CC6?logo=trivy&logoColor=white)  
 
   
 📌 **Pinned Projects:**  
