@@ -8,13 +8,11 @@
 
 ### 🛠️ **DevOps Tools I Use:**  
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white)![Helm](https://img.shields.io/badge/Helm-0F1D35?logo=helm&logoColor=white)![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)  
+#### Orchestration & Containerization
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1D35?logo=helm&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white)  
 
 #### CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white)  
-![Vagrant](https://img.shields.io/badge/Vagrant-1563B0?logo=vagrant&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1563B0?logo=vagrant&logoColor=white)  
 
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)  
