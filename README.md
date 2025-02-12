@@ -31,4 +31,4 @@
 - [🤖 Automation with Ansible (Nginx Setup)](https://github.com/dehech/ansible_nginx) 
 
 📫 **Let's Connect!**  
-[LinkedIn](https://www.linkedin.com/in/firas-dehech-b4122a239) | [GitHub](https://dehech.github.io/Firas-CV/) | [Email](mailto:firas.dehech@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/firas-dehech-b4122a239) | [GitHub](https://github.com/dehech) | [Email](mailto:firas.dehech@gmail.com)  
