@@ -9,6 +9,7 @@
 ### 📑 **View My Resume**:
 
 [Click here to view my CV](https://dehech.github.io/Firas-CV/).
+
 📥 [Download My CV (PDF)](https://dehech.github.io/Firas-CV/Firas_Dehech_CV.pdf).
 
 ### 🛠️ **DevOps Tools I Use:**  
