@@ -21,12 +21,14 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-000000?logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)  
 
 #### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![OCI](https://img.shields.io/badge/OCI-F80000?logo=oracle&logoColor=white) ![Huawei Cloud Stack](https://img.shields.io/badge/Huawei_Cloud-FF0000?logo=huawei&logoColor=white)
+
+#### Web Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 
 #### Monitoring & Security
 ![Prometheus](https://img.shields.io/badge/Prometheus-FF8C00?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-3E7CC6?logo=trivy&logoColor=white)  
 
-  
 📌 **Pinned Projects:**  
 - [🔗 My DevOps Projects](https://github.com/dehech/devops)  
 - [🚀 Kubernetes Deployments](https://github.com/dehech/K8S-Projet)[, OCI-CI/CD](https://github.com/dehech/docker-project)
