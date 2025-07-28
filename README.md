@@ -29,7 +29,7 @@
   
 📌 **Pinned Projects:**  
 - [🔗 My DevOps Projects](https://github.com/dehech/devops)  
-- [🚀 Kubernetes Deployments](https://github.com/dehech/K8S-Projet)[, CI/CD](https://github.com/dehech/docker-project)
+- [🚀 Kubernetes Deployments](https://github.com/dehech/K8S-Projet)[,OCI-CI/CD](https://github.com/dehech/docker-project)
 - [🤖 Automation with Ansible (Nginx Setup)](https://github.com/dehech/ansible_nginx) 
 
 📫 **Let's Connect!**  
