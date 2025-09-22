@@ -10,7 +10,7 @@
 
 [Click here to view my CV](https://dehech.github.io/Firas-CV/)
 
-📥 [Download My CV (PDF)](https://dehech.github.io/Firas-CV/Firas_Dehech_CV.pdf)
+📥 [Download My CV (PDF)](https://dehech.github.io/Firas-CV/CV_Mohamed Firas_Dehech.pdf)
 
 ### 🛠️ **DevOps Tools I Use:**  
 
